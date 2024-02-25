@@ -21,7 +21,7 @@
 ### DNN-DeepLat  DNN-InferNet  ... ...
 
 ## members
-* ![[ABC]((https://github.com/TJU-NSL))]([https://avatars.githubusercontent.com/u/53746620?v=4](https://avatars.githubusercontent.com/u/96054160?s=200&v=4))
+* ABC [https://github.com/TJU-NSL](https://github.com/TJU-NSL)
 * ABC [https://github.com/TJU-NSL](https://github.com/TJU-NSL)
 
 ## ...
